@@ -6,4 +6,5 @@ echo "Bonjour tout le monde" >aa.java
 javac aa.java
 cd ..
 cd ..
+echo 'by'
  
